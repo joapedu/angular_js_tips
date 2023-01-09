@@ -1,1 +1,1 @@
-![]()
+![Angular](./../assets/lixo.png)
