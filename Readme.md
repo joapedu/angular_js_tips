@@ -1,5 +1,6 @@
-# :dart: Angular Study 
+# :dart: Angular13 Study 
             Following by Javascript and Typescript study
+            [It's the @angular/cli not AngularJS]
 ---
 
 ## 💻 Typescript superset from Javascript
